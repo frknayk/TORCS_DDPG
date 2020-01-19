@@ -6,7 +6,7 @@ Learning how to drive from scratch with DDPG algorithm
 ***train.py*** 
 - Main code that training happens. Inside this code, you need to enter paths of
 log files, paths of past trained weights of actor and critic and the path of replay memory.
-- This is useful, because you can train your AI, from a spesific weights and a point of memory.
+- This is useful, because you can train your AI, from a specific weights and a point of memory.
 
 ***inference.py***
 - Inference code for the agent with given trained paths.
