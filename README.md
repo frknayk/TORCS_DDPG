@@ -1,4 +1,4 @@
-# AutonomousDriving_DDPG_TORCS
+# TORCS_DDPG
 Learning how to drive from scratch with DDPG algorithm 
 
 ### How To Use This REPO
